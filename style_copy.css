@@ -43,11 +43,11 @@ color: rgb(49, 13, 178);
 }
 a:visited {
 text-decoration:none;
-color: rgb(49, 13, 178);
+color: rgb(50, 13, 178);
 }
 a:hover {
 text-decoration:none;
-color: rgb(66, 32, 216);
+color: rgb(62, 22, 216);
 text-shadow: 0 0 5px #00ccff;
 }
 a:active {
@@ -58,7 +58,7 @@ color: blue;
 main{
 margin-left: 5%;
 margin-right: 5%;
-margin-top: 5px;
+margin-top: 9px;
 margin-bottom: 5px;
 padding: 5%;
 background-image: radial-gradient(circle, #0089ff, #006afa, #0046ed, #2b00d7);
