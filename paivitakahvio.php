@@ -35,7 +35,7 @@ $password=isset($_POST["password"]) ? $_POST["password"] : "";
 mysqli_report(MYSQLI_REPORT_ALL ^ MYSQLI_REPORT_INDEX);
 
 
-//Jos ei jompaa kumpaa tai kumpaakaan tietoa ole annettu
+//Jssssssssssssssssssss
 //ohjataan pyyntö takaisin lomakkeelle
 if (empty($username) || empty($password) || empty($id)){
     header("Location:tallennakahvio.php");
